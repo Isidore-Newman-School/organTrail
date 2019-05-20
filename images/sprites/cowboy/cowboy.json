@@ -1,0 +1,8 @@
+[[
+  {"name":"player_walk01", "frame":{"x":0, "y": 0, "width": 160, "height": 174}},
+  {"name":"player_walk02", "frame":{"x":160, "y": 0, "width": 160, "height": 174}},
+  {"name":"player_walk03", "frame":{"x":320, "y": 0, "width": 160, "height": 174}},
+  {"name":"player_walk03", "frame":{"x":0, "y": 174, "width": 160, "height": 174}},
+  {"name":"player_walk03", "frame":{"x":160, "y": 174, "width": 160, "height": 174}},
+  {"name":"player_walk03", "frame":{"x":320, "y": 174, "width": 160, "height": 174}}
+]]
